@@ -9,8 +9,9 @@ What this does:
 
 Installation Instructions:
 
-Download both arcwin10-1.0.1.0-to-1.0.0.0.ps1 & arcwin10-1.0.1.0-to-1.0.0.0.bat to the same directory. Right click and run arcwin10-1.0.1.0-to-1.0.0.0.bat as Administrator.
-Open the "ArcInstaller-1.0.0.0.exe" file.
+1. Download both arcwin10-1.0.1.0-to-1.0.0.0.ps1 & arcwin10-1.0.1.0-to-1.0.0.0.bat to the same directory.
+2. Right click and run arcwin10-1.0.1.0-to-1.0.0.0.bat as Administrator.
+3. Open the "ArcInstaller-1.0.0.0.exe" file.
 
 ------------------------------------------------------------------
 
