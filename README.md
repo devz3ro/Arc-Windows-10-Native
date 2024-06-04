@@ -2,15 +2,15 @@ What this does:
 
 1. Downloads and installs Chocolatey & xdelta3 dependencies.
 2. Downloads ArcInstaller.
-3. Steps down ArcInstaller version from 1.0.1.0 to 1.0.0.0 to allow Arc to be installed on Windows 10.
+3. Steps down ArcInstaller version from 1.1.0.0 to 1.0.0.0 to allow Arc to be installed on Windows 10.
 4. Creates "ArcInstaller-1.0.0.0.exe" file.
 
 ------------------------------------------------------------------
 
 Installation Instructions:
 
-1. Download both arcwin10-1.0.1.0-to-1.0.0.0.ps1 & arcwin10-1.0.1.0-to-1.0.0.0.bat to the same directory.
-2. Right click and run arcwin10-1.0.1.0-to-1.0.0.0.bat as Administrator.
+1. Download both arcwin10-1.1.0.0-to-1.0.0.0.ps1 & arcwin10-1.1.0.0-to-1.0.0.0.bat to the same directory.
+2. Right click and run arcwin10-1.1.0.0-to-1.0.0.0.bat as Administrator.
 3. Open the "ArcInstaller-1.0.0.0.exe" file.
 
 ------------------------------------------------------------------
