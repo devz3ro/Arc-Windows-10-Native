@@ -95,5 +95,7 @@ if ($actualMd5 -eq $expectedMd5) {
     }
 } else {
     Write-Host "MD5 checksum verification failed. Expected: $expectedMd5, Got: $actualMd5"
+    Remove-Item $patchFilePath
+    Remove-Item $outputPath
     exit 1
 }
