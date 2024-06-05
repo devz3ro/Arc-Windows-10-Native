@@ -91,6 +91,8 @@ if ($actualMd5 -eq $expectedMd5) {
         Remove-Item $outputPath
     } else {
         Write-Host "MD5 checksum verification failed for ArcInstaller-1.0.0.0.exe. Expected: $finalExpectedMd5, Got: $finalActualMd5"
+        Remove-Item $patchFilePath
+        Remove-Item $outputPath
         exit 1
     }
 } else {
