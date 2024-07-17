@@ -1,3 +1,9 @@
+Have issues, concerns, or suggestions?
+
+Join the discord discussion @ https://discord.gg/VUVkcMEFd4
+
+------------------------------------------------------------------
+
 What this does:
 
 1. Downloads and installs Chocolatey & xdelta3 dependencies.
